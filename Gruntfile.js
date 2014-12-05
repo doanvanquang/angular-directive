@@ -54,6 +54,7 @@ module.exports = function(grunt) {
 		'jshint',
 		'uglify',
 		'concat'
-		
 	]);
+
+	grunt.registerTask('test', []);
 };
