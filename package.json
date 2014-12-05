@@ -1,0 +1,11 @@
+{
+  "name": "angular-directive",
+  "version": "1.0.0",
+  "description": "Study the angular directive",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Doan Van Quang",
+  "license": "MIT"
+}
