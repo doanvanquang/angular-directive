@@ -4,7 +4,8 @@
   "description": "Study the angular directive",
   "main": "app.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "start": "http-server"
   },
   "author": "Doan Van Quang",
   "license": "MIT",
@@ -13,7 +14,8 @@
     "grunt-contrib-concat": "^0.5.0",
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-contrib-uglify": "^0.6.0",
-    "grunt-contrib-watch": "^0.6.1"
+    "grunt-contrib-watch": "^0.6.1",
+    "http-server": "~0.7.4"
   },
   "dependencies": {
     "grunt": "^0.4.5",
