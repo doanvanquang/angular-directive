@@ -56,6 +56,7 @@
       "jasmine": true,
       "jQuery": true,
       "sinon": true,
-      "console": true
+      "console": true,
+      "angular": true
     }
 }
